@@ -1,4 +1,4 @@
-# TzeOS - A Minimalistic Microkernel From Scratch 🚀
+# README And Read The Explained!
 
 A hobbyist project built from scratch to eliminate the overhead of traditional, bloated kernels. No Linux base, no GNU utilities—just pure, raw communication with the hardware.
 
